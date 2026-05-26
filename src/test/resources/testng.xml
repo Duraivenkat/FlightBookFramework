@@ -8,6 +8,8 @@
 
             <class name="tests.FlightSearchTest"/>
 
+            <class name="tests.FlightSelectionTest"/>
+
         </classes>
 
     </test>
